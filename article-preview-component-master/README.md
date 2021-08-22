@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](https://romandenisa.github.io/FrontendMentorChallenges/article-preview-component/)
+- Live Site URL: [Live Site](https://romandenisa.github.io/FrontendMentorChallenges/article-preview-component-master/)
 
 ## My process
 
