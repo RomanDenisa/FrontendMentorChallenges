@@ -23,7 +23,7 @@ body{
     width: 90%;
     display:grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 2fr 3fr;
+    grid-template-rows: 2.3fr 3fr;
     border-width: 1px;
     border-radius: 20px;
     overflow: hidden;
